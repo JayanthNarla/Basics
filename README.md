@@ -3,3 +3,8 @@ First Name - Jayanth
 Last Name - Narla
 
 Hello Github!
+
+Stand-up Meeting members - 
+
+1. pradyumna upendra dasu - pradyumnaupendra@vt.edu
+2. Harsha bhamidipati - harshabhamidipat@vt.edu
