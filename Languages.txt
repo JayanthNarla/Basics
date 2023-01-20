@@ -1,0 +1,7 @@
+- What is your favorite programming language? Why?
+  Favourite Programming Language is Python and Javascript because of their convenience. Python is a language with a small learning curve, it’s code similar to how we talk (more or less). This is the language with which I got started with programming, The time taken to learn and get started with projects using python is very less and hasn't been that daunting.
+
+  After python, Javascript is my next in line, as it is powerful language with which we can pretty much do everything starting from web development to machine learning
+
+- Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+  Yes, My favourite language is the one i’m most experiences with.
