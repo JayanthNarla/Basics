@@ -1,5 +1,5 @@
 # CS5704 SE Basics Workshop
-First Name - Jayanth\n
+First Name - Jayanth
 Last Name - Narla
 
 Hello Github!
