@@ -6,7 +6,8 @@ Hello Github!
 
 Stand-up Meeting members - 
 
-1. Jayanth Narla - jnarla@vt.edu
-2. pradyumna upendra dasu - pradyumnaupendra@vt.edu
-3. Harsha bhamidipati - harshabhamidipat@vt.edu
-4. Huayu Liang - huayu98@vt.edu
+1. Jayanth Narla - jnarla
+2. pradyumna upendra dasu - pradyumnaupendra
+3. Harsha bhamidipati - harshabhamidipat
+4. Huayu Liang - huayu98
+5. Dhruveel Chouhan - dhruveel10
